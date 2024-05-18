@@ -8,6 +8,8 @@ import Header from "./Components/Header/Header";
 import Residencies from "./Components/Residencies/Residencies";
 import Value from "./Components/Value/Value";
 
+// testing
+
 function App() {
   return (
     <div className="App">
